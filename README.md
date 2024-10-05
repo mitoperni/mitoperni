@@ -24,7 +24,7 @@ Innovative Full-Stack Developer with a strong foundation in Mechanical Engineeri
 ## 💼 Experience
 - **Full-Stack Developer Bootcamp Graduate** (2024)
   - Developed comprehensive web applications using modern technologies
-  - Selected as top student and best Team Leader in the cohort
+  - Selected as best final project for the cohort
 
 - **R&D Project Consultant** at Aliot Innovación (Apr 2023 - Jan 2024)
   - Drafted project reports and R&D documents for tax benefit applications
