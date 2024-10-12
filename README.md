@@ -40,7 +40,7 @@ Innovative Full-Stack Developer with a strong foundation in Mechanical Engineeri
 
 ## 🏆 Projects
 1. **Liquiboxes** - [[Link](https://sample-service-name-3no0.onrender.com/)] Full-stack application showcasing web development skills
-2. **Star Wars Database** - [[[Link](https://sample-service-name-3no0.onrender.com/)](https://github.com/mitoperni/StarWars-DataBase-React-flux-)] React-based project demonstrating front-end proficiency
+2. **Star Wars Database** - [[[Link](https://sample-service-name-3no0.onrender.com/)]React-based project demonstrating front-end proficiency
 3. **YoLoCuido** - [[Link](https://yolocuido.vercel.app/)] Collaborative hackathon project (Front-end focus)
 4. **Angola Sustainable Charcoal** - [[Link](https://www.uco.es/servicios/actualidad/reportajes/item/137987-reportaje-plan-propio-cooperacion)] Research project combining engineering and sustainability
 
