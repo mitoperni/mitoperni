@@ -4,11 +4,13 @@
 Innovative Full-Stack Developer with a strong foundation in Mechanical Engineering. My diverse background spans R&D project consulting, technical sales, and international research, culminating in a passion for crafting elegant software solutions. I bridge the gap between engineering precision and creative coding, bringing a unique problem-solving perspective to every project.
 
 🌍 Originally from Spain, currently embracing new challenges in Dublin, Ireland.
+<br/>
 🚀 Recently completed an intensive Full-Stack Developer Bootcamp at 4Geeks Academy
+<br/>
 🎓 Mechanical Engineering graduate from the University of Córdoba (2019)
 
 ## 🌱 Current Focus
-- Expanding and refining Liquiboxes, my bootcamp's final showcase project
+- Expanding and refining Liquiboxes
 - Deepening knowledge in React ecosystem and advanced Python concepts
 - Exploring software architecture principles to build robust, scalable applications
 
@@ -85,7 +87,7 @@ Innovative Full-Stack Developer with a strong foundation in Mechanical Engineeri
   - Analyzed and documented innovative technology projects across various industries
   - Improved tax incentive approval rates through detailed technical reporting
 
-- **Research Engineer** - University of Córdoba, Angola Project (2020-2022)
+- **Research Engineer** - University of Córdoba (2020-2022)
   - Contributed to sustainable charcoal production project in Angola
   - Designed specialized machinery and coordinated with international partners
 
