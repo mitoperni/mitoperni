@@ -1,117 +1,122 @@
-# 👨‍💻 Miguel Toyas Pernichi | Full-Stack Developer & Mechanical Engineer
+# 👨‍💻 Miguel Toyas Pernichi | Full Stack Developer
 
 ## 💫 About Me
-Innovative Full-Stack Developer with a strong foundation in Mechanical Engineering. My diverse background spans R&D project consulting, technical sales, and international research, culminating in a passion for crafting elegant software solutions. I bridge the gap between engineering precision and creative coding, bringing a unique problem-solving perspective to every project.
+Full Stack Developer with expertise in **React**, **JavaScript**, **Python**, and **PostgreSQL**. My unique background in Mechanical Engineering gives me a distinctive approach to problem-solving and technical implementations. I specialize in creating responsive, user-centric web applications with clean, efficient code.
 
-🌍 Originally from Spain, currently embracing new challenges in Dublin, Ireland.
-<br/>
-🚀 Recently completed an intensive Full-Stack Developer Bootcamp at 4Geeks Academy
-<br/>
-🎓 Mechanical Engineering graduate from the University of Córdoba (2019)
+🌍 Based in Dublin, Ireland (Open to Remote Opportunities)  
+🚀 Full Stack Developer & Teacher Assistant at 4Geeks Academy  
+🎓 Mechanical Engineering graduate transitioning to tech  
+🔧 Passionate about combining engineering precision with creative coding  
 
-## 🌱 Current Focus
-- Expanding and refining Liquiboxes
-- Deepening knowledge in React ecosystem and advanced Python concepts
-- Exploring software architecture principles to build robust, scalable applications
-
-## 💻 Tech Stack:
+## 🛠️ Tech Stack
 
 ### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
+![Phoenix](https://img.shields.io/badge/phoenix-%23FF6F61.svg?style=for-the-badge&logo=phoenix&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Database
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![pgAdmin](https://img.shields.io/badge/pgAdmin-%23326CE5.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Build Tools & Package Managers
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-### Deployment & Hosting
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+## 🚀 Professional Experience
 
-### Design & Productivity
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
-![GitHub Projects](https://img.shields.io/badge/GitHub%20Projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Draw.io](https://img.shields.io/badge/draw.io-%23F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+### Teacher Assistant | Full Stack Bootcamp
+**4Geeks Academy** | Remote | November 2024 - Present
+- Lead instruction in React, JavaScript, Python, Flask, and PostgreSQL
+- Provide mentoring and technical guidance to aspiring developers
+- Contribute to curriculum development and teaching methodologies
 
-### Other
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-## 🛠 Skills
-- **Engineering:** Problem-Solving, Project Management, Technical Documentation
-- **Development:** Full-Stack Web Development, RESTful APIs, Database Design
-- **Soft Skills:** Leadership, Communication, Teamwork, Adaptability
-- **Languages:** Spanish (Native), English (Fluent), Portuguese (Fluent)
+### Full Stack Web Developer
+**Yumly** | Remote | November 2024 - February 2025
+- Developed features using Elixir and Phoenix framework
+- Enhanced system performance with backend optimizations
+- Collaborated with cross-functional teams on code reviews and testing
+- **Technologies**: Elixir, Phoenix, PostgreSQL, LiveView, TailwindCSS
 
-## 💼 Key Experiences
-- **Team Leader & Full Stack Developer** - Liquiboxes Project (2024)
-  - Led development of an innovative e-commerce platform for personalized mystery boxes
-  - Implemented frontend with React.js and backend with Python/Flask
-  - Project recognized as best in the 4Geeks Academy Bootcamp cohort
+### Team Lead & Full Stack Developer
+**Liquiboxes** | Remote | June 2024 - November 2024
+- Led development team for an innovative e-commerce platform
+- Architected personalized recommendation system
+- Implemented secure payment integrations
+- **Technologies**: React.js, Python, Flask, PostgreSQL
+- **Achievement**: Best Project Award at 4Geeks Academy
 
-- **Frontend Developer** - YO LO CUIDO, No Country (2024)
-  - Implemented responsive user interface for a pet care platform
-  - Utilized React, TypeScript, and modern frontend practices
+## 💻 Featured Projects
 
-- **R&D Project Consultant** - Aliot Innovación (2023-2024)
-  - Analyzed and documented innovative technology projects across various industries
-  - Improved tax incentive approval rates through detailed technical reporting
+### [Liquiboxes](https://sample-service-name-om7d.onrender.com)
+E-commerce platform with personalized mystery boxes, connecting vendors and buyers through a dynamic recommendation system.
+- **Stack**: React.js, Python, Flask, PostgreSQL, SQLAlchemy
+- **Features**: User preference algorithms, secure payment processing, responsive design
+- **Role**: Team Lead & Full Stack Developer
 
-- **Research Engineer** - University of Córdoba (2020-2022)
-  - Contributed to sustainable charcoal production project in Angola
-  - Designed specialized machinery and coordinated with international partners
+### [YO LO CUIDO](https://yolocuido.vercel.app)
+Pet care service platform connecting pet owners with caregivers.
+- **Stack**: React, HTML, CSS, Bootstrap
+- **Features**: Responsive UI, cross-device compatibility, intuitive user experience
+- **Role**: Frontend Developer
 
-## 🏆 Projects
-1. **[Liquiboxes](https://sample-service-name-3no0.onrender.com/)** - Full-stack e-commerce platform for mystery boxes
-2. **[YO LO CUIDO](https://yolocuido.vercel.app/)** - Responsive pet care platform (Frontend focus)
-3. **[Angola Sustainable Charcoal](https://www.uco.es/servicios/actualidad/reportajes/item/137987-reportaje-plan-propio-cooperacion)** - Environmental impact project
+### [Sustainable Charcoal in Angola](https://www.undp.org/pt/angola/blog/iniciativa-de-formacao-do-projecto-de-promocao-de-carvao-vegetal-sustentavel-em-parceria-com-inefop-cenfoc)
+Environmental impact project promoting sustainable charcoal practices.
+- **Technologies**: Mechanical engineering & technical implementation
+- **Features**: High-efficiency stoves, eco-friendly briquette production
+- **Role**: Technical Consultant
 
-## 💬 Ask me about
-- Transitioning from Mechanical Engineering to Software Development
-- Applying engineering problem-solving skills to coding challenges
-- International work experiences and adapting to new environments
-- The intersection of renewable energy and technology
+## 🌱 Current Focus
+- Developing personal projects to continuously expand my skill set
+- Focusing on teaching and mentoring students while learning from them
+- Deepening knowledge in React ecosystem and state management
+- Exploring modern web development practices and new technologies
+- Building my portfolio with projects that solve real-world problems
 
-## ⚡ Fun fact
-From optimizing charcoal production in Angola to crafting efficient code, I've always been passionate about finding innovative solutions to complex problems across different fields!
+## 💼 Skills
 
-## 🌐 Connect with me
+### Technical Skills
+- Full Stack Web Development
+- Responsive Design Implementation
+- RESTful API Development
+- Database Design & Optimization
+- Technical Troubleshooting
+
+### Soft Skills
+- Technical Leadership
+- Problem-solving across domains
+- Team Collaboration
+- Adaptability to new technologies
+- Effective Communication
+
+### Languages
+- English (Fluent)
+- Spanish (Native)
+- Portuguese (Proficient)
+
+## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/migueltoyaspernichi)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mpernichi)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mitoperni)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://www.mitoperni.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mitoperni@gmail.com)
 
 ---
 
 <p align="center">
-<i>Engineering background, coding passion, and a global mindset - bringing a multifaceted approach to software development.</i>
+<i>Bridging engineering precision with creative coding to build elegant, efficient solutions</i>
 </p>
