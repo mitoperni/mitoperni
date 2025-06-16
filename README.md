@@ -5,7 +5,6 @@ Frontend Developer specializing in **React** and **TypeScript** with full stack 
 
 🌍 Based in Dublin, Ireland  
 🏥 Frontend Developer at ResMed  
-🚀 Former Teacher Assistant at 4Geeks Academy  
 🎓 Mechanical Engineering → Frontend Development  
 🔧 Passionate about building robust, reliable applications
 
