@@ -1,23 +1,25 @@
-# 👨‍💻 Miguel Toyas Pernichi | Full Stack Developer
+# 👨‍💻 Miguel Toyas Pernichi | Frontend Developer
 
 ## 💫 About Me
-Full Stack Developer with expertise in **React**, **JavaScript**, **Python**, and **PostgreSQL**. My unique background in Mechanical Engineering gives me a distinctive approach to problem-solving and technical implementations. I specialize in creating responsive, user-centric web applications with clean, efficient code.
+Frontend Developer specializing in **React** and **TypeScript** with full stack foundation that enables seamless backend collaboration. Currently working at **ResMed** building healthcare platforms serving 20,000+ weekly users. My unique background in Mechanical Engineering gives me a distinctive approach to problem-solving and technical implementations.
 
-🌍 Based in Dublin, Ireland (Open to Remote Opportunities)  
-🚀 Full Stack Developer & Teacher Assistant at 4Geeks Academy  
-🎓 Mechanical Engineering graduate transitioning to tech  
-🔧 Passionate about combining engineering precision with creative coding  
+🌍 Based in Dublin, Ireland  
+🏥 Frontend Developer at ResMed  
+🚀 Former Teacher Assistant at 4Geeks Academy  
+🎓 Mechanical Engineering → Frontend Development  
+🔧 Passionate about building robust, reliable applications
 
 ## 🛠️ Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,82 +34,87 @@ Full Stack Developer with expertise in **React**, **JavaScript**, **Python**, an
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & Tools
+### Testing & DevOps
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ## 🚀 Professional Experience
 
-### Teacher Assistant | Full Stack Bootcamp
-**4Geeks Academy** | Remote | November 2024 - Present
-- Lead instruction in React, JavaScript, Python, Flask, and PostgreSQL
-- Provide mentoring and technical guidance to aspiring developers
-- Contribute to curriculum development and teaching methodologies
+### Frontend Developer
+**ResMed** | Dublin, Ireland | May 2025 - Present
+- Engineer complex business functionality for healthcare platform serving 20,000+ weekly users
+- Build system integrations and API implementations using React and TypeScript
+- Collaborate with international teams across Dublin, Sydney, Bangalore, and San Diego
+- Implement automated testing strategies and contribute to CI/CD pipelines
+**Technologies**: React, TypeScript, Jest, GitHub Actions
 
-### Full Stack Web Developer
-**Yumly** | Remote | November 2024 - February 2025
-- Developed features using Elixir and Phoenix framework
-- Enhanced system performance with backend optimizations
-- Collaborated with cross-functional teams on code reviews and testing
-- **Technologies**: Elixir, Phoenix, PostgreSQL, LiveView, TailwindCSS
+### Teacher Assistant | Full Stack Developer
+**4Geeks Academy España** | Remote | November 2024 - June 2025
+- Mentored 50+ students in React, Python, Flask, achieving 90% completion rate
+- Delivered technical lectures on React hooks, database design, and API development
+- Developed supplementary coding exercises and production-ready projects
+**Technologies**: React, JavaScript, Python, Flask, SQLAlchemy
 
-### Team Lead & Full Stack Developer
-**Liquiboxes** | Remote | June 2024 - November 2024
-- Led development team for an innovative e-commerce platform
-- Architected personalized recommendation system
-- Implemented secure payment integrations
-- **Technologies**: React.js, Python, Flask, PostgreSQL
-- **Achievement**: Best Project Award at 4Geeks Academy
+### Full Stack Developer Intern
+**Yumly** | Remote, Denmark | November 2024 - February 2025
+- Implemented features using Elixir/Phoenix for scalable web platform
+- Optimized database queries and backend processes with PostgreSQL
+**Technologies**: Elixir, Phoenix, PostgreSQL, LiveView, TailwindCSS
 
 ## 💻 Featured Projects
 
-### [Liquiboxes](https://sample-service-name-om7d.onrender.com)
+### EquiRoster
+AI-powered workforce scheduling platform for hospitality industry.
+- **Stack**: React, TypeScript, Python, SQLAlchemy
+- **Features**: Workforce optimization, market validation with 10+ restaurant managers
+- **Role**: Founder & Lead Developer (Team of 4)
+
+### Liquiboxes
 E-commerce platform with personalized mystery boxes, connecting vendors and buyers through a dynamic recommendation system.
 - **Stack**: React.js, Python, Flask, PostgreSQL, SQLAlchemy
 - **Features**: User preference algorithms, secure payment processing, responsive design
 - **Role**: Team Lead & Full Stack Developer
 
-### [YO LO CUIDO](https://yolocuido.vercel.app)
+### YO LO CUIDO
 Pet care service platform connecting pet owners with caregivers.
 - **Stack**: React, HTML, CSS, Bootstrap
 - **Features**: Responsive UI, cross-device compatibility, intuitive user experience
 - **Role**: Frontend Developer
 
-### [Sustainable Charcoal in Angola](https://www.undp.org/pt/angola/blog/iniciativa-de-formacao-do-projecto-de-promocao-de-carvao-vegetal-sustentavel-em-parceria-com-inefop-cenfoc)
-Environmental impact project promoting sustainable charcoal practices.
-- **Technologies**: Mechanical engineering & technical implementation
-- **Features**: High-efficiency stoves, eco-friendly briquette production
-- **Role**: Technical Consultant
 
 ## 🌱 Current Focus
-- Developing personal projects to continuously expand my skill set
-- Focusing on teaching and mentoring students while learning from them
-- Deepening knowledge in React ecosystem and state management
-- Exploring modern web development practices and new technologies
-- Building my portfolio with projects that solve real-world problems
+- Building healthcare software at ResMed that genuinely helps people
+- Diving deep into TypeScript and Docker - finally understanding why everyone loves them
+- Getting EquiRoster to actually launch while keeping my day job priorities straight
+- Leveling up my testing skills
+- Planning to travel more - Dublin is great but the world is bigger
 
 ## 💼 Skills
 
 ### Technical Skills
-- Full Stack Web Development
-- Responsive Design Implementation
-- RESTful API Development
+- Frontend Development with React & TypeScript
+- Testing Strategy & Implementation (Unit, Integration, E2E)
+- API Integration & Backend Collaboration
+- Team Leadership & Technical Architecture
 - Database Design & Optimization
-- Technical Troubleshooting
+- Healthcare Software Development
 
 ### Soft Skills
-- Technical Leadership
-- Problem-solving across domains
-- Team Collaboration
-- Adaptability to new technologies
-- Effective Communication
+- Leading development teams (4+ developers)
+- Cross-timezone collaboration (Dublin → San Diego)
+- Technical mentoring and knowledge transfer
+- Startup founding & product development
+- Problem-solving in regulated environments
+- Effective communication across technical and business stakeholders
 
 ### Languages
-- English (Fluent)
 - Spanish (Native)
+- English (Fluent)
 - Portuguese (Proficient)
 
 ## 📫 Connect With Me
